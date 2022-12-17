@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pr-books/static/css/main.c8df5340.css",
+    "main.js": "/pr-books/static/js/main.732447c6.js",
+    "index.html": "/pr-books/index.html",
+    "main.c8df5340.css.map": "/pr-books/static/css/main.c8df5340.css.map",
+    "main.732447c6.js.map": "/pr-books/static/js/main.732447c6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c8df5340.css",
+    "static/js/main.732447c6.js"
+  ]
+}
